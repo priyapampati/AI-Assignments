@@ -1,5 +1,6 @@
 # AI-Assignments
 This repository contains all the assignments along with their output files:
+
 Assignment 1: 8 queens using BFS algorithm
 Code file name: bfsqueenpriya.cpp, 1801097.docx
 Output file name:

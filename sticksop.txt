@@ -1,0 +1,180 @@
+Human Vs AI for 14 sticks
+
+Select which game you want:
+1.Human Vs Human
+2.Human Vs AI
+3.AI Vs AI
+2
+Enter no. of Sticks you'd like to play with:
+14
+RULE: Enter a number from 1, 2, 3
+toss
+CPU won toss
+--------start--------
+CPU chance
+CPU selects : 1
+Remaining Sticks :  13
+Player chance
+2
+Remaining Sticks :  11
+CPU chance
+CPU selects : 2
+Remaining Sticks :  9
+Player chance
+2
+Remaining Sticks :  7
+CPU chance
+CPU selects : 2
+Remaining Sticks :  5
+Player chance
+3
+Remaining Sticks :  2
+CPU chance
+CPU selects : 1
+Remaining Sticks :  1
+Player lost
+GAME OVER
+
+
+
+AI vs AI for 14 sticks
+
+
+
+Select which game you want:
+1.Human Vs Human
+2.Human Vs AI
+3.AI Vs AI
+3
+Enter no. of Sticks you'd like to play with:
+14
+RULE: Enter a number from 1, 2, 3
+toss
+CPU 1 won toss
+start
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  13
+CPU 2 chance
+CPU 2 selects : 1
+Remaining Sticks :  12
+CPU 1 chance
+CPU 1 selects : 3
+Remaining Sticks :  9
+CPU 2 chance
+CPU 2 selects : 1
+Remaining Sticks :  8
+CPU 1 chance
+CPU 1 selects : 3
+Remaining Sticks :  5
+CPU 2 chance
+CPU 2 selects : 1
+Remaining Sticks :  4
+CPU 1 chance
+CPU 1 selects : 3
+Remaining Sticks :  1
+CPU 2 lost
+GAME OVER
+
+
+
+Human Vs AI for 21 Sticks
+
+
+
+Select which game you want:
+1.Human Vs Human
+2.Human Vs AI
+3.AI Vs AI
+2
+Enter no. of Sticks you'd like to play with:
+21
+RULE: Enter a number from 1, 2, 3
+toss
+CPU won toss
+--------start--------
+CPU chance
+CPU selects : 1
+Remaining Sticks :  20
+Player chance
+3
+Remaining Sticks :  17
+CPU chance
+CPU selects : 1
+Remaining Sticks :  16
+Player chance
+3
+Remaining Sticks :  13
+CPU chance
+CPU selects : 1
+Remaining Sticks :  12
+Player chance
+3
+Remaining Sticks :  9
+CPU chance
+CPU selects : 1
+Remaining Sticks :  8
+Player chance
+1
+Remaining Sticks :  7
+CPU chance
+CPU selects : 2
+Remaining Sticks :  5
+Player chance
+3
+Remaining Sticks :  2
+CPU chance
+CPU selects : 1
+Remaining Sticks :  1
+Player lost
+GAME OVER
+
+
+
+AI vs AI for 21 sticks
+
+
+
+Select which game you want:
+1.Human Vs Human
+2.Human Vs AI
+3.AI Vs AI
+3
+Enter no. of Sticks you'd like to play with:
+21
+RULE: Enter a number from 1, 2, 3
+toss
+CPU 1 won toss
+start
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  20
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  17
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  16
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  13
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  12
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  9
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  8
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  5
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  4
+CPU 2 chance
+CPU 2 selects : 3
+Remaining Sticks :  1
+CPU 1 lost
+GAME OVER

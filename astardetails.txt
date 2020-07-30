@@ -1,0 +1,8 @@
+  State Space:- An 8x8 matrix with any arrangement of n<=8 queens
+  Initial State:- No queens on the board(i.e., all entries are null)
+ 
+  Action:- Add a new queen in an empty column
+  Goal state:- 8 Queens placed on the board and all queens are in non-attacking position
+ 
+  Cost:- One per queen placed
+  Heuristic Function:- Number of feaisble blocks(so that queen can be palced) int the current state.

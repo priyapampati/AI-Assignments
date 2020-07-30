@@ -16,6 +16,8 @@ This repository contains all the assignments along with their output files:
 
 **Output file name:** astarqueenop.txt
 
+**Code Heuristics:** astardetails.txt
+
 **Compilation Instruction:** g++ 8queenstar.cpp
 
 
